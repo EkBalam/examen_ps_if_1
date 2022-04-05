@@ -1,4 +1,4 @@
-# Examen If's 1
+# Examen If's 1 el más fácil 
 La jornada de trabajo es de 48 horas, calcular el monto a pagar dada las horas trabajadas con el valor por hora que es de 80 pesos. 
 Mostrar su salario. La hora extra (despues de la 48) se paga 5% mas que la hora normal, si hay mas de 8 hrs extra cada hora adicional se paga 10% mas. 
 Sin embargo esta topado a un maximo de 60 hras, si sobre pasa las 60 hrs, se da un unico bono de 500.
