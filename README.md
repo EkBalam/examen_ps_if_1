@@ -16,7 +16,7 @@ Salario: 3840
 ```
 ```sh
 Pedir el numero de horas trabajadas: 57
-Salario: 4512
+Salario: 4600
 ```
 ```sh
 Pedir el numero de horas trabajadas: 60
